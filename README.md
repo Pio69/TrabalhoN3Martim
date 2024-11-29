@@ -62,7 +62,22 @@ Para a interface de usuário, basta abrir o arquivo `index.html` em seu navegado
 
 Após a busca, você verá algo como:
 
-+----------------------------+ | Miss Jerry | | Gêneros: Romance | | Tipo: movie | +----------------------------+ | Camille | | Gêneros: Drama, Romance | | Tipo: movie | +----------------------------+ | Amor fatal | | Gêneros: Drama, Romance | | Tipo: movie | +----------------------------+ | Den glade løjtnant | | Gêneros: Romance | | Tipo: movie | +----------------------------+
+### Gêneros: Romance
+```
++----------------------------+
+| **Miss Jerry**             |
+| Gêneros: Romance           |
+| Tipo: movie                |
++----------------------------+
+| **Camille**                |
+| Gêneros: Drama, Romance    |
+| Tipo: movie                |
++----------------------------+
+| **Amor fatal**             |
+| Gêneros: Drama, Romance    |
+| Tipo: movie                |
++----------------------------+
+```
 
 Se nenhum filme for encontrado, a mensagem "Nenhum filme encontrado." será exibida.
 
